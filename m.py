@@ -7,3 +7,6 @@ d=9*2=18
 
 Hello python!
 人生苦短，我用Python
+
+
+ff=12
